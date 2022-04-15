@@ -76,7 +76,7 @@
 |  名前  |  説明  |
 |  ----  |  ----  |
 |  スピアフィッシング  |成功率の高い攻撃の一種。特定の人を狙ってメールなどで攻撃をする。<br>ソーシャルエンジニアリングなどで人物の情報を収集することを中心としている。  |
-|  XSS(クロスサイトスクリプティング)  |Webアプリケーションの脆弱性もしくはそれを利用した攻撃。<br>攻撃者がそこに悪質なサイトへ誘導するスクリプトを仕掛けることで、サイトに訪れるユーザーの個人情報などを詐取する。ブラウザによって動作が大きく異なる場合がある。<br>XSS作成参考:(https://github.com/foospidy/payloads/tree/master/other/xss)<br>(https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)  |
+|  XSS(クロスサイトスクリプティング) XSS.md  |Webアプリケーションの脆弱性もしくはそれを利用した攻撃。<br>攻撃者がそこに悪質なサイトへ誘導するスクリプトを仕掛けることで、サイトに訪れるユーザーの個人情報などを詐取する。ブラウザによって動作が大きく異なる場合がある。<br>XSS作成参考:(https://github.com/foospidy/payloads/tree/master/other/xss)<br>(https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)  |
 |  キーロガー  |キーボードから入力した文字情報などを記録するソフトウェアだが、悪用して個人情報などを盗むことも可能。  |
 
 
