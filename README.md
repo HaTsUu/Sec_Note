@@ -60,14 +60,14 @@
 まとめてあったほうが便利なので別でまとめています。
 |  名前  |  説明  |
 |  ----  |  ----  |
-|  Wappalyzer  |表示中のWebページで利用されているソフトウェアやサービス、フレームワークなどを一覧表示する。<br>拡張機能などで使用可能。(https://www.wappalyzer.com/)  |
-|  BuiltWith  |閲覧中のWebページに利用されている技術を調査できる拡張機能。(https://builtwith.com/)  |
-|  Retire.js  |Webアプリケーションに脆弱なJavaScriptライブラリを使用しているかを確認する。(https://retirejs.github.io/retire.js/)  |
-|  BurpSuite  |ローカルプロキシツール。キャプチャをしたり、リクエストの値を変えたりと便利ツール。コミュニティ版とプロ版がある。<br>(https://portswigger.net/burp)  |
-|  OWASP Zap  |オープンソースのWebアプリケーションセキュリティスキャナーBurpSuiteと同様便利ツール※要調べ(https://www.zaproxy.org/)  |
+|  [Wappalyzer](https://www.wappalyzer.com/) |表示中のWebページで利用されているソフトウェアやサービス、フレームワークなどを一覧表示する。<br>拡張機能などで使用可能。  |
+|  [BuiltWith](https://builtwith.com/)   |閲覧中のWebページに利用されている技術を調査できる拡張機能。 |
+|  [Retire.js] (https://retirejs.github.io/retire.js/) |Webアプリケーションに脆弱なJavaScriptライブラリを使用しているかを確認する。  |
+|  [BurpSuite](https://portswigger.net/burp)  |ローカルプロキシツール。キャプチャをしたり、リクエストの値を変えたりと便利ツール。コミュニティ版とプロ版がある。  |
+|  [OWASP Zap](https://www.zaproxy.org/)  |オープンソースのWebアプリケーションセキュリティスキャナーBurpSuiteと同様便利ツール※要調べ  |
 |  DirBuster  |Webアプリケーションのファイルやフォルダーを発見するためのツール。Webブルートフォースツール。  |
-|  FeroxBuster  |Webブルートフォースツール。DirBusterと似たようなツール。DirBusterなどが使えないときに使う。  |
-|  GoBuster  |軽量で高速なWebブルートフォースツール。サブドメイン等も列挙ができる。GUI版もある。(https://github.com/0J/gobuster)  |
+|  [FeroxBuster](https://github.com/epi052/feroxbuster)  |Webブルートフォースツール。DirBusterと似たようなツール。DirBusterなどが使えないときに使う。  |
+|  [GoBuster](https://github.com/0J/gobuster)  |軽量で高速なWebブルートフォースツール。サブドメイン等も列挙ができる。GUI版もある。  |
 
 
  
