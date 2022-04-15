@@ -34,10 +34,8 @@
 ・Tko-subs(https://github.com/anshumanbh/tko-subs)
 
 ## ドメイン奪取
-・HostileSubBruteforcer
-  https://github.com/nahamsec/HostileSubBruteforcer
-・AutoSubTakeover
-  https://github.com/JordyZomer/autoSubTakeover
+・HostileSubBruteforcer(https://github.com/nahamsec/HostileSubBruteforcer)<br>
+・AutoSubTakeover(https://github.com/JordyZomer/autoSubTakeover)
 
 ## AWS脆弱性にもっと知りたい場合
 ・http://flaws.cloud/
