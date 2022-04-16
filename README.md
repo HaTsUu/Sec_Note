@@ -62,7 +62,7 @@
 |  ----  |  ----  |
 |  [Wappalyzer](https://www.wappalyzer.com/) |表示中のWebページで利用されているソフトウェアやサービス、フレームワークなどを一覧表示する。<br>拡張機能などで使用可能。  |
 |  [BuiltWith](https://builtwith.com/)   |閲覧中のWebページに利用されている技術を調査できる拡張機能。 |
-|  [Retire.js] (https://retirejs.github.io/retire.js/) |Webアプリケーションに脆弱なJavaScriptライブラリを使用しているかを確認する。  |
+|  [Retire.js](https://retirejs.github.io/retire.js/) |Webアプリケーションに脆弱なJavaScriptライブラリを使用しているかを確認する。  |
 |  [BurpSuite](https://portswigger.net/burp)  |ローカルプロキシツール。キャプチャをしたり、リクエストの値を変えたりと便利ツール。コミュニティ版とプロ版がある。  |
 |  [OWASP Zap](https://www.zaproxy.org/)  |オープンソースのWebアプリケーションセキュリティスキャナーBurpSuiteと同様便利ツール※要調べ  |
 |  DirBuster  |Webアプリケーションのファイルやフォルダーを発見するためのツール。Webブルートフォースツール。  |
