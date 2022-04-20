@@ -24,3 +24,7 @@ XSSが何度でも通じる大きな理由の一つは、タグや特定の文�
 脆弱性に関しては、言語ごとに奇異な点がある。<br>
 フィルタをかわしてJavaScriptを挿入するには[JsFuck](http://www.jsfuck.com/)などをを使って難解な表記を利用する(Node.js,pugのみ？)
 
+## XSSからシェルを取得
+CMS(Content Management System)などでユーザーからシステム管理者に昇格するスタイルのXSS。<br>
+ウォークスルーサンプルコード[Hans-Michael VarBaekのGITリポジトリ](https://github.com/VarBaek/xsser)。
+このリポジトリはXSS to RCE攻撃を再現するためのサンプルや動画を提供してくれている。<br>
