@@ -79,7 +79,9 @@
 |  スピアフィッシング  |成功率の高い攻撃の一種。特定の人を狙ってメールなどで攻撃をする。<br>ソーシャルエンジニアリングなどで人物の情報を収集することを中心としている。  |
 |  XSS(クロスサイトスクリプティング) [詳細](/XSS.md)  |Webアプリケーションの脆弱性もしくはそれを利用した攻撃。<br>攻撃者がそこに悪質なサイトへ誘導するスクリプトを仕掛けることで、サイトに訪れるユーザーの個人情報などを詐取する。ブラウザによって動作が大きく異なる場合がある。<br>XSS作成参考:(https://github.com/foospidy/payloads/tree/master/other/xss)<br>(https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)  |
 |  キーロガー  |キーボードから入力した文字情報などを記録するソフトウェアだが、悪用して個人情報などを盗むことも可能。  |
-
+|  SQLインジェクション  |アプリケーションが想定しないSQL文を実行させることにより、データベースシステムを不正に操作する攻撃方法。[SQL MAP](http://sqlmap.org/)  |
+|  NoSQLインジェクション  |SQL以外のデーターベースを標的にしたもの(※要調べ)<br>・[NoSQL injectionペイロード](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)<br>・[Hacking NodeJS and MongoDB](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html)<br>・[Testing for NoSQL injection](https://www.owasp.org/index.php/Testing_for_NoSQL_injection) |
+|  デシリアライゼーション攻撃  |データをシリアライズされた時と同じ状態に復元すること。このデシリアライゼーションの処理に対して、悪意のあるデータを与え、意図しないオブジェクトを復元させることで攻撃が成立する。  |
 
 ## セキュリティ単語集etc...
 
@@ -88,6 +90,6 @@
 | OWASP  |Webアプリケーションセキュリティの分野で自由に利用できる記事、方法論、ドキュメント、ツール、およびテクノロジを作成するオンラインコミュニティ。<br>https://owasp.org/www-chapter-japan/  |
 |  スナップショット  |スナップショットとは、NAS上のファイルやフォルダの状態を定期的に記録・保存しておく技術。参考:(https://note.com/qnap/n/n2b9f5ff6bc11)  |  
 |  C&Cサーバー(C2サーバー)  |侵入して乗っ取ったコンピュータを利用した攻撃で、踏み台のコンピュータを制御したり命令を出したりする。  |
-
+|  BlackHat  |世界最大規模のセキュリティカンファレンス。  |
 
 
