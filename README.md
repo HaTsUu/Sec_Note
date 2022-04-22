@@ -68,9 +68,8 @@
 |  DirBuster  |Webアプリケーションのファイルやフォルダーを発見するためのツール。Webブルートフォースツール。  |
 |  [FeroxBuster](https://github.com/epi052/feroxbuster)  |Webブルートフォースツール。DirBusterと似たようなツール。DirBusterなどが使えないときに使う。  |
 |  [GoBuster](https://github.com/0J/gobuster)  |軽量で高速なWebブルートフォースツール。サブドメイン等も列挙ができる。GUI版もある。  |
-|  [BeEF](http://beeproject.com/)  |XSSをさらに強力にするツール。キャンペーン、ユーザーの追跡、認証情報のキャプチャなどができる。[詳細](/XSS.md)
-
-
+|  [BeEF](http://beeproject.com/)  |XSSをさらに強力にするツール。キャンペーン、ユーザーの追跡、認証情報のキャプチャなどができる。[詳細](/XSS.md)  |
+|  [Tqlmap](https://github.com/epinna/tqlmap)  |テンプレートインジェクションの様々な組み合わせをすべて試してみることができる。  |
  
 
 ## 攻撃の手口
@@ -82,7 +81,8 @@
 |  SQLインジェクション  |アプリケーションが想定しないSQL文を実行させることにより、データベースシステムを不正に操作する攻撃方法。[SQL MAP](http://sqlmap.org/)  |
 |  NoSQLインジェクション  |SQL以外のデーターベースを標的にしたもの(※要調べ)<br>・[NoSQL injectionペイロード](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)<br>・[Hacking NodeJS and MongoDB](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html)<br>・[Testing for NoSQL injection](https://www.owasp.org/index.php/Testing_for_NoSQL_injection) |
 |  デシリアライゼーション攻撃  |データをシリアライズされた時と同じ状態に復元すること。このデシリアライゼーションの処理に対して、悪意のあるデータを与え、意図しないオブジェクトを復元させることで攻撃が成立する。  |
-|  テンプレートエンジン攻撃  |ユーザー入力がテンプレートに直接渡され、テンプレートそのものが変更可能な時に起こる。  |
+|  テンプレートエンジン攻撃  |ユーザー入力がテンプレートに直接渡され、テンプレートそのものが変更可能な時に起こる。<br>・[Server-Side Template Injection](http://blog.portswigger.net/2015/08/server-side-template-injection.html)<br>・[Yahoo! RCE via Spring Engine SSTI](https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/)<br>・[SSTI判別チートシート](https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/Server%20Side%20Template%20Injection/Images/serverside.png) |
+|  RCE(Remote Code Execution)  |オペレーティングシステムやWebアプリケーションの脆弱性を突いて任意のコードを実行するような攻撃手段。  |
 
 ## セキュリティ単語集etc...
 
@@ -92,5 +92,6 @@
 |  スナップショット  |スナップショットとは、NAS上のファイルやフォルダの状態を定期的に記録・保存しておく技術。参考:(https://note.com/qnap/n/n2b9f5ff6bc11)  |  
 |  C&Cサーバー(C2サーバー)  |侵入して乗っ取ったコンピュータを利用した攻撃で、踏み台のコンピュータを制御したり命令を出したりする。  |
 |  BlackHat  |世界最大規模のセキュリティカンファレンス。  |
+|  SSTI  |Server-Side Template Injection  |
 
 
