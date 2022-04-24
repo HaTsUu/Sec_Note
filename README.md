@@ -91,7 +91,8 @@
 |  デシリアライゼーション攻撃  |データをシリアライズされた時と同じ状態に復元すること。このデシリアライゼーションの処理に対して、悪意のあるデータを与え、意図しないオブジェクトを復元させることで攻撃が成立する。  |
 |  テンプレートエンジン攻撃  |ユーザー入力がテンプレートに直接渡され、テンプレートそのものが変更可能な時に起こる。<br>・[Server-Side Template Injection](http://blog.portswigger.net/2015/08/server-side-template-injection.html)<br>・[Yahoo! RCE via Spring Engine SSTI](https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/)<br>・[SSTI判別チートシート](https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/Server%20Side%20Template%20Injection/Images/serverside.png) |
 |  RCE(Remote Code Execution)  |オペレーティングシステムやWebアプリケーションの脆弱性を突いて任意のコードを実行するような攻撃手段。  |
-
+|  SSRF(Server-Side Request Forgery)  |通常の方法ではアクセスできないサーバーに対して攻撃を仕掛ける手法。  |
+|  CSRF(クロスサイトリクエストフォージェリー)  |Webアプリケーションに存在する脆弱性、もしくはその脆弱性を利用した攻撃方法  |
 ## セキュリティ単語集etc...
 
 |  名前  |  説明  |
