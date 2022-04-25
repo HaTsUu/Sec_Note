@@ -107,6 +107,7 @@
 |  SSTI  |Server-Side Template Injection  |
 |  フォレンジック  |デジタルデバイスに記録された情報の回収と分析調査などを行うこと  |
 |  XML(Extensible Markup Language)  |データを読みやすい形式で送信/格納することを目的として設計された  |
+|  DTD(Document Type Declaration)  |SGMLやXML、HTMLなどのマークアップ言語で記述された文書の冒頭などに記載される。  |
 
 
 
