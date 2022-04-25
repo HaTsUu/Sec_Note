@@ -91,8 +91,11 @@
 |  デシリアライゼーション攻撃  |データをシリアライズされた時と同じ状態に復元すること。このデシリアライゼーションの処理に対して、悪意のあるデータを与え、意図しないオブジェクトを復元させることで攻撃が成立する。  |
 |  テンプレートエンジン攻撃  |ユーザー入力がテンプレートに直接渡され、テンプレートそのものが変更可能な時に起こる。<br>・[Server-Side Template Injection](http://blog.portswigger.net/2015/08/server-side-template-injection.html)<br>・[Yahoo! RCE via Spring Engine SSTI](https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/)<br>・[SSTI判別チートシート](https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/Server%20Side%20Template%20Injection/Images/serverside.png) |
 |  RCE(Remote Code Execution)  |オペレーティングシステムやWebアプリケーションの脆弱性を突いて任意のコードを実行するような攻撃手段。  |
-|  SSRF(Server-Side Request Forgery)  |通常の方法ではアクセスできないサーバーに対して攻撃を仕掛ける手法。  |
+|  SSRF(Server-Side Request Forgery)  |通常の方法ではアクセスできないサーバーに対して攻撃を仕掛ける手法。・[localhostのエンコーディング](http://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf)<br>・[Airbnbのバグバウンティ](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)  |
+|  DOS(Denial of Attack)  | ウェブサービスを稼働しているサーバやネットワークなどのリソースに意図的に過剰な負荷をかけたり脆弱性をついたりすることでサービスを妨害すること  |
 |  CSRF(クロスサイトリクエストフォージェリー)  |Webアプリケーションに存在する脆弱性、もしくはその脆弱性を利用した攻撃方法  |
+|  XXE(XML External Entity) |XMLの外部参照機能を使って、機密情報を含む内部ファイルを読み出す不正行為。  |
+
 ## セキュリティ単語集etc...
 
 |  名前  |  説明  |
@@ -103,5 +106,7 @@
 |  BlackHat  |世界最大規模のセキュリティカンファレンス。  |
 |  SSTI  |Server-Side Template Injection  |
 |  フォレンジック  |デジタルデバイスに記録された情報の回収と分析調査などを行うこと  |
+|  XML(Extensible Markup Language)  |データを読みやすい形式で送信/格納することを目的として設計された  |
+
 
 
