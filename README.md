@@ -79,7 +79,9 @@
 |  Git-All-Secrets  |大きな組織を調べるときに使う。セットアップが少しめんどくさい。TruffleHogとrepo-supervisorを使ってスキャンを行う。  |
 |  slurp  | バケットの列挙。キーワードまたはリストを受け取り複数の組み合わせを行い、パケットの検出を試みる。  |
 |  BucketFinder  |パケットの特定と内容をすべてダウンロードして解析できるようにする。  |
-|  [Spray](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/simplifying-password-spraying/)  |ブルートフォースアタックを行うツール？(要調べ)  |
+|  [Spray](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/simplifying-password-spraying/)  |ブルートフォースアタックを行うツール？|
+|  [ruler](https://github.com/sensepost/ruler)  |MAPI/HTTPまたはRPC/HTTPプロトコルを使ってExchangeサーバーとやり取りができる。 |
+
 
 
 ## 攻撃の手口
@@ -113,6 +115,8 @@
 |  フォレンジック  |デジタルデバイスに記録された情報の回収と分析調査などを行うこと  |
 |  XML(Extensible Markup Language)  |データを読みやすい形式で送信/格納することを目的として設計された  |
 |  DTD(Document Type Declaration)  |SGMLやXML、HTMLなどのマークアップ言語で記述された文書の冒頭などに記載される。  |
+|  MAPI(Messaging Application Programming Interface )/HTTP  |Outlook と Exchange の接続の信頼性と安定性を改善するために、<br>トランスポート層を業界標準の HTTP モデルに移行させているトランスポート プロトコル。  |
+|  RPC/HTTP  |Microsoft Outlook クライアントが HTTP を介して Microsoft Exchange サーバーにアクセスするための Microsoft プロトコル。  |
 |  メモリリーク  |プログラミングにおけるバグの一種。プログラムが確保したメモリの一部、または全部を解放するのを忘れ、確保したままになってしまうこと。|
 
 
