@@ -118,6 +118,7 @@
 |  MAPI(Messaging Application Programming Interface )/HTTP  |Outlook と Exchange の接続の信頼性と安定性を改善するために、<br>トランスポート層を業界標準の HTTP モデルに移行させているトランスポート プロトコル。  |
 |  RPC/HTTP  |Microsoft Outlook クライアントが HTTP を介して Microsoft Exchange サーバーにアクセスするための Microsoft プロトコル。  |
 |  メモリリーク  |プログラミングにおけるバグの一種。プログラムが確保したメモリの一部、または全部を解放するのを忘れ、確保したままになってしまうこと。|
+|  SaaS  |必要な機能を必要な分だけサービスとして利用できるようにしたソフトウェアもしくはその提供形態のこと。  |
 
 
 
