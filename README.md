@@ -79,6 +79,8 @@
 |  Git-All-Secrets  |大きな組織を調べるときに使う。セットアップが少しめんどくさい。TruffleHogとrepo-supervisorを使ってスキャンを行う。  |
 |  slurp  | バケットの列挙。キーワードまたはリストを受け取り複数の組み合わせを行い、パケットの検出を試みる。  |
 |  BucketFinder  |パケットの特定と内容をすべてダウンロードして解析できるようにする。  |
+|  [Spray](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/simplifying-password-spraying/)  |ブルートフォースアタックを行うツール？(要調べ)  |
+
 
 ## 攻撃の手口
 |  名前  |  説明  |
@@ -95,6 +97,9 @@
 |  DOS(Denial of Attack)  | ウェブサービスを稼働しているサーバやネットワークなどのリソースに意図的に過剰な負荷をかけたり脆弱性をついたりすることでサービスを妨害すること  |
 |  CSRF(クロスサイトリクエストフォージェリー)  |Webアプリケーションに存在する脆弱性、もしくはその脆弱性を利用した攻撃方法  |
 |  XXE(XML External Entity) |XMLの外部参照機能を使って、機密情報を含む内部ファイルを読み出す不正行為。<br>・[Etienne StalmansのXXEペイロード](https://gist.github.com/staaldraad/01415b990939494879b4)<br>・[Daniel MiesslerのXXEペイロード](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/XXE-Fuzzing.txt)  |
+|  ブルートフォースアタック  |可能な組合せを全て試すやり方  |
+|  パスワードスプレー  |IDやパスワードを組み合わせて連続的に攻撃するブルートフォース攻撃の一種。アカウントロックを回避する手法を持つパスワード攻撃。  |
+
 
 ## セキュリティ単語集etc...
 
