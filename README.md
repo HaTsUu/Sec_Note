@@ -81,6 +81,8 @@
 |  BucketFinder  |パケットの特定と内容をすべてダウンロードして解析できるようにする。  |
 |  [Spray](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/simplifying-password-spraying/)  |ブルートフォースアタックを行うツール？|
 |  [ruler](https://github.com/sensepost/ruler)  |MAPI/HTTPまたはRPC/HTTPプロトコルを使ってExchangeサーバーとやり取りができる。 |
+|  [Responder](https://github.com/lgandx/Responder)  |IPv6 / IPv4 LLMNR / NBT-NS/mDNSポイズナー？(要調べ)  |
+
 
 
 
@@ -119,6 +121,7 @@
 |  RPC/HTTP  |Microsoft Outlook クライアントが HTTP を介して Microsoft Exchange サーバーにアクセスするための Microsoft プロトコル。  |
 |  メモリリーク  |プログラミングにおけるバグの一種。プログラムが確保したメモリの一部、または全部を解放するのを忘れ、確保したままになってしまうこと。|
 |  SaaS  |必要な機能を必要な分だけサービスとして利用できるようにしたソフトウェアもしくはその提供形態のこと。  |
+|  NTLM(NT LAN Manager)  |マイクロソフトによるセキュリティプロトコル。LAN Manager (LANMAN, LM) の後継。  |
 
 
 
