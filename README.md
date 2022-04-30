@@ -82,6 +82,10 @@
 |  [Spray](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/simplifying-password-spraying/)  |ブルートフォースアタックを行うツール？|
 |  [ruler](https://github.com/sensepost/ruler)  |MAPI/HTTPまたはRPC/HTTPプロトコルを使ってExchangeサーバーとやり取りができる。 |
 |  [Responder](https://github.com/lgandx/Responder)  |IPv6 / IPv4 LLMNR / NBT-NS/mDNSポイズナー？(要調べ)  |
+|  Empire Powershell  |Powershellの機能を使って攻撃を再現する。かなり強力なツール(要調べ)  |
+|  [Blood HoundAD](https://github.com/BloodHoundAD/BloodHound) |ActiveDirectory攻撃パスを継続的にマッピングおよび定量化する攻撃パス管理ソリューション？|
+|  [CrackMapExec(CME)](https://github.com/byt3bl33d3r/CrackMapExec) |Active Direcotryへの自動セキュリティアセスメントツール(post-exploitation)で、できるだけIDS/IPSに検知されないように設計されたもの。<br>内部でImpacket, PowerSploit, Mimikittenzなどが使われているらしい。  |
+
 
 
 
@@ -122,6 +126,6 @@
 |  メモリリーク  |プログラミングにおけるバグの一種。プログラムが確保したメモリの一部、または全部を解放するのを忘れ、確保したままになってしまうこと。|
 |  SaaS  |必要な機能を必要な分だけサービスとして利用できるようにしたソフトウェアもしくはその提供形態のこと。  |
 |  NTLM(NT LAN Manager)  |マイクロソフトによるセキュリティプロトコル。LAN Manager (LANMAN, LM) の後継。  |
-
+|  Activate Directory |ディレクトリ・サービス・システム。ユーザとコンピュータリソースを管理するコンポーネント群の総称  |
 
 
