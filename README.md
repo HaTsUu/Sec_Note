@@ -2,6 +2,12 @@
 本とかの用語やツールをまとめています。
 自分用ですが誰かの役に立てたら嬉しいです
 
+## ほかの人のチートシート等
+下にスクロールしてみるのめんどくさいからまとめます<br>
+・https://github.com/sanposhiho/MY_CHEAT_SHEET<br>
+・https://github.com/yukitsukai47/PenetrationTesting_cheatsheet<br>
+・https://github.com/OWASP/www-chapter-japan/tree/master/secreq
+
 ## サブドメイン列挙
 |  名前  |  説明  |
 |  ----  |  ----  |
@@ -111,6 +117,7 @@
 |  XXE(XML External Entity) |XMLの外部参照機能を使って、機密情報を含む内部ファイルを読み出す不正行為。<br>・[Etienne StalmansのXXEペイロード](https://gist.github.com/staaldraad/01415b990939494879b4)<br>・[Daniel MiesslerのXXEペイロード](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/XXE-Fuzzing.txt)  |
 |  ブルートフォースアタック  |可能な組合せを全て試すやり方  |
 |  パスワードスプレー  |IDやパスワードを組み合わせて連続的に攻撃するブルートフォース攻撃の一種。アカウントロックを回避する手法を持つパスワード攻撃。  |
+|  Null Byte攻撃  |「\0」「\x00」「%00」といった文字列の終わりを意味する制御文字をリクエストに含めることでセキュリティーチェックをすり抜ける手法。 |
 
 
 ## セキュリティ単語集etc...
