@@ -103,7 +103,8 @@
 |  NoSQLインジェクション  |SQL以外のデーターベースを標的にしたもの(※要調べ)<br>・[NoSQL injectionペイロード](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)<br>・[Hacking NodeJS and MongoDB](https://blog.websecurify.com/2014/08/hacking-nodejs-and-mongodb.html)<br>・[Testing for NoSQL injection](https://www.owasp.org/index.php/Testing_for_NoSQL_injection) |
 |  デシリアライゼーション攻撃  |データをシリアライズされた時と同じ状態に復元すること。このデシリアライゼーションの処理に対して、悪意のあるデータを与え、意図しないオブジェクトを復元させることで攻撃が成立する。  |
 |  テンプレートエンジン攻撃  |ユーザー入力がテンプレートに直接渡され、テンプレートそのものが変更可能な時に起こる。<br>・[Server-Side Template Injection](http://blog.portswigger.net/2015/08/server-side-template-injection.html)<br>・[Yahoo! RCE via Spring Engine SSTI](https://hawkinsecurity.com/2017/12/13/rce-via-spring-engine-ssti/)<br>・[SSTI判別チートシート](https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/Server%20Side%20Template%20Injection/Images/serverside.png) |
-|  RCE(Remote Code Execution)  |オペレーティングシステムやWebアプリケーションの脆弱性を突いて任意のコードを実行するような攻撃手段。  |
+|  RCE(Remote Code Execution)  |オペレーティングシステムやWebアプリケーションの脆弱性を突いて任意のコードを実行するような攻撃手段。[チートシート](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/File%20Inclusion/README.md)  |
+|  LFI(Local File Inclusion) |ターゲットのサーバ上のファイルに対し、不正なスクリプトを挿入し、デフォルトファイル名の変更、データのアップロードやダウンロードの実行等ができる  |
 |  SSRF(Server-Side Request Forgery)  |通常の方法ではアクセスできないサーバーに対して攻撃を仕掛ける手法。・[localhostのエンコーディング](http://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf)<br>・[Airbnbのバグバウンティ](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)  |
 |  DOS(Denial of Attack)  | ウェブサービスを稼働しているサーバやネットワークなどのリソースに意図的に過剰な負荷をかけたり脆弱性をついたりすることでサービスを妨害すること  |
 |  CSRF(クロスサイトリクエストフォージェリー)  |Webアプリケーションに存在する脆弱性、もしくはその脆弱性を利用した攻撃方法  |
