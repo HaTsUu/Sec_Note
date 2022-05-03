@@ -94,6 +94,7 @@
 |  [CrackMapExec(CME)](https://github.com/byt3bl33d3r/CrackMapExec) |Active Direcotryへの自動セキュリティアセスメントツール(post-exploitation)で、できるだけIDS/IPSに検知されないように設計されたもの。<br>内部でImpacket, PowerSploit, Mimikittenzなどが使われているらしい。  |
 |  [nikto](https://cirt.net/Nikto2)  |Web アプリケーションセキュリティスキャナー。かなり便利 |
 |  [AutoRecon](https://github.com/Tib3rius/AutoRecon)  | TCPのデフォルト1000ポートスキャンのNmapScanを実行<br>そこからNmapのVulnスクリプトやNikto、enum4linuxなどを実行してくれる。空いてるポート見逃しが結構あるらしいので注意。[参考](https://kakyouim.hatenablog.com/entry/2020/04/17/182049#AutoRecon)  |
+|  [LFI2RCE](https://github.com/takabaya-shi/LFI2RCE) |LFIなどの脆弱性に対して使う。  |
 
 
 
