@@ -76,6 +76,7 @@
 |  DirBuster  |Webアプリケーションのファイルやフォルダーを発見するためのツール。Webブルートフォースツール。  |
 |  [FeroxBuster](https://github.com/epi052/feroxbuster)  |Webブルートフォースツール。DirBusterと似たようなツール。DirBusterなどが使えないときに使う。  |
 |  [GoBuster](https://github.com/0J/gobuster)  |軽量で高速なWebブルートフォースツール。サブドメイン等も列挙ができる。GUI版もある。  |
+|  [fuff](https://github.com/ffuf/ffuf) |WEBファジングツール。Gobusterなどのブルートフォースツールと同じくくり。 早いらしい |
 |  [BeEF](http://beefproject.com/)  |XSSをさらに強力にするツール。キャンペーン、ユーザーの追跡、認証情報のキャプチャなどができる。[詳細](/XSS.md)  |
 |  [Tqlmap](https://github.com/epinna/tqlmap)  |テンプレートインジェクションの様々な組み合わせをすべて試してみることができる。  |
 |  Knock  |Knockはワードリストに精度が左右される  |
