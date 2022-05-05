@@ -119,6 +119,7 @@
 |  DOS(Denial of Attack)  | ウェブサービスを稼働しているサーバやネットワークなどのリソースに意図的に過剰な負荷をかけたり脆弱性をついたりすることでサービスを妨害すること  |
 |  CSRF(クロスサイトリクエストフォージェリー)  |Webアプリケーションに存在する脆弱性、もしくはその脆弱性を利用した攻撃方法  |
 |  XXE(XML External Entity) |XMLの外部参照機能を使って、機密情報を含む内部ファイルを読み出す不正行為。<br>・[Etienne StalmansのXXEペイロード](https://gist.github.com/staaldraad/01415b990939494879b4)<br>・[Daniel MiesslerのXXEペイロード](https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/XXE-Fuzzing.txt)  |
+|  XST(Cross-site Tracing)  |XSSとTRACEメソッドを組み合わせた攻撃手法。化石らしい？  |
 |  ブルートフォースアタック  |可能な組合せを全て試すやり方  |
 |  パスワードスプレー  |IDやパスワードを組み合わせて連続的に攻撃するブルートフォース攻撃の一種。アカウントロックを回避する手法を持つパスワード攻撃。  |
 |  Null Byte攻撃  |「\0」「\x00」「%00」といった文字列の終わりを意味する制御文字をリクエストに含めることでセキュリティーチェックをすり抜ける手法。 |
