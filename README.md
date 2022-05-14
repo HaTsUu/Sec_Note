@@ -96,6 +96,7 @@
 |  [nikto](https://cirt.net/Nikto2)  |Webアプリケーション脆弱性スキャナー。かなり便利 |
 |  [AutoRecon](https://github.com/Tib3rius/AutoRecon)  | TCPのデフォルト1000ポートスキャンのNmapScanを実行<br>そこからNmapのVulnスクリプトやNikto、enum4linuxなどを実行してくれる。空いてるポート見逃しが結構あるらしいので注意。[参考](https://kakyouim.hatenablog.com/entry/2020/04/17/182049#AutoRecon)  |
 |  [LFI2RCE](https://github.com/takabaya-shi/LFI2RCE) |LFIなどの脆弱性に対して使う。  |
+|  [Evil-Winrm](https://github.com/Hackplayers/evil-winrm)  |資格情報とアクセス許可がある場合に使用することのできるリモートシェルプログラム。  |
 
 
 
