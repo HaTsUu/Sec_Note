@@ -3,11 +3,12 @@
 自分用ですが誰かの役に立てたら嬉しいです
 
 ## ほかの人のチートシート等
-下にスクロールしてみるのめんどくさいからまとめます<br>
+まとめてあったり役に立ったりしたサイト<br>
 ・https://github.com/sanposhiho/MY_CHEAT_SHEET<br>
 ・https://github.com/yukitsukai47/PenetrationTesting_cheatsheet<br>
 ・https://github.com/OWASP/www-chapter-japan/tree/master/secreq<br>
-・https://kakyouim.hatenablog.com/entry/2020/04/17/182049
+・https://kakyouim.hatenablog.com/entry/2020/04/17/182049<br>
+・[マルウェア解析に必要な素養](https://hackmd.io/@K-atc/rJ6ipszPM#%E3%83%9E%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A2%E8%A7%A3%E6%9E%90%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E7%B4%A0%E9%A4%8A%EF%BD%9E%E8%A7%A3%E6%9E%90%E8%80%85%E7%B7%A8%EF%BD%9E)
 
 ## サブドメイン列挙
 |  名前  |  説明  |
